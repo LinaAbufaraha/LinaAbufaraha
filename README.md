@@ -6,9 +6,6 @@
   ![Visitors](https://visitor-badge.glitch.me/badge?page_id=LinaAbufaraha.LinaAbufaraha)
 </div>
 
-# 👋 Hi, I'm Lina Abufaraha
-
-🎓 **Computer Engineering Student** at Birzeit University  
 
 ## 📌 Projects  
 Here are some of the projects I've worked on:  
@@ -21,11 +18,7 @@ Here are some of the projects I've worked on:
 - **Description:** Implemented a **Convolutional Neural Network (CNN)** model to classify handwritten digits using the **MNIST dataset**  
 - **Repo:** [Handwritten-Digit-ProjectAI](https://github.com/LinaAbufaraha/Handwritten-Digit-Recognition-using-CNN-ProjectAI)
 
-## 📫 Contact Me  
-📩 **Email:** linaabufarha1@gmail.com .
-🔗 **LinkedIn:** [Lina Abufarha](https://www.linkedin.com/in/lina-abufarha-937734273/)  
-💻 **GitHub:** [LinaAbufaraha](https://github.com/LinaAbufaraha)  
-
+##  📫 How to reach me:
 [![Gmail](https://img.shields.io/badge/-linaabufarha1@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:linaabufarha1@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lina-abufarha-937734273/)
 
