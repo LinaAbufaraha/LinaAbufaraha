@@ -9,24 +9,24 @@
 ## 💻 Tech Stack
 
 **Programming Languages:**  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) (Experienced)  
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) (Familiar)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) (Familiar)  
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) (Familiar)  
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" height="25" alt="Java"> (Experienced)  
+<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" height="25" alt="C#"> (Familiar)  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="25" alt="Python"> (Familiar)  
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" height="25" alt="C"> (Familiar)  
 
 **Frameworks:**  
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring&logoColor=white)  
-![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)  
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white" height="25" alt="Spring Boot">  
+<img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" height="25" alt="Unity">  
 
 **Tools & Platforms:**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white)  
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white)  
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="25" alt="Git">  
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="25" alt="GitHub">  
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" height="25" alt="VS Code">  
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" height="25" alt="IntelliJ IDEA">  
 
 **Databases & Other:**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)  
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="25" alt="MySQL">  
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" height="25" alt="Bash">  
 
 
 ## 📌 Projects  
