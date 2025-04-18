@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="![image](https://github.com/user-attachments/assets/256b9cf3-7ac6-43d0-a62c-95643b503c09)
-" width="200" alt="Hello GIF">
+  <img src="https://private-user-images.githubusercontent.com/74038190/290079079-231375ce-58a3-4c3b-85c8-44ea51d1318f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQ5OTI0MjAsIm5iZiI6MTc0NDk5MjEyMCwicGF0aCI6Ii83NDAzODE5MC8yOTAwNzkwNzktMjMxMzc1Y2UtNThhMy00YzNiLTg1YzgtNDRlYTUxZDEzMThmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDE4VDE2MDIwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIzMWE0ODMxNmNkMGM4MTNkNGI3ZDYxNGRmOGNiOGYxMWZmMjYzNDdkNDMwYTUzZmJhMzRlYjY4YzQ1Zjg5ZTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.XGbj4EAQo7DYpsvWw8T3SfHzs62b3PBlfLitWW2XBUc" width="200" alt="Hello GIF">
   <h1>👋 Hi, I'm Lina Abufaraha</h1>
   <p>🎓 <b>Computer Engineering Student</b> at Birzeit University</p>
   
