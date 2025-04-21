@@ -2,11 +2,12 @@
   <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="200" alt="Hello GIF">
   <h1>👋 Hi, I'm Lina Abufarha</h1>
   <p>🎓 <b>Computer Engineering Student</b> at Birzeit University</p>
-  
+
   ![Visitors](https://komarev.com/ghpvc/?username=LinaAbufaraha&style=flat&color=blue)
+</div>
 
 ## 💻 Tech Stack
-
+<div align="center">
 **Programming Languages:**  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
@@ -26,7 +27,7 @@
 **Databases & Other:**  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-
+</div>
 
 ## 📌 Projects  
 Here are some of the projects I've worked on:  
@@ -39,16 +40,26 @@ Here are some of the projects I've worked on:
 - **Description:** Implemented a **Convolutional Neural Network (CNN)** model to classify handwritten digits using the **MNIST dataset**  
 - **Repo:** [Handwritten-Digit-ProjectAI](https://github.com/LinaAbufaraha/Handwritten-Digit-Recognition-using-CNN-ProjectAI)
 
-##  📫 How to reach me:
-[![Gmail](https://img.shields.io/badge/-linaabufarha1@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:linaabufarha1@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lina-abufarha-937734273/)
-
 
 ## 📊 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=LinaAbufaraha&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LinaAbufaraha&layout=compact&theme=radical)
 
- 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LinaAbufaraha&show_icons=true&theme=radical" alt="My GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinaAbufaraha&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<div align="center"> 
+##  📫 How to reach me:
+[![Gmail](https://img.shields.io/badge/-linaabufarha1@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:linaabufarha1@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lina-abufarha-937734273/)
+</div>
+
+<div align="center"> 
   <img src="https://media.giphy.com/media/3o7abuJ8lCW1f5CmO4/giphy.gif" width="200">
   <h3>Thanks for visiting! 😊</h3>
 </div>
