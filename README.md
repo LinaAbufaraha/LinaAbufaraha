@@ -4,7 +4,6 @@
   <p>🎓 <b>Computer Engineering Student</b> at Birzeit University</p>
   
   ![Visitors](https://komarev.com/ghpvc/?username=LinaAbufaraha&style=flat&color=blue)
-</div>
 
 ## 💻 Tech Stack
 
@@ -49,7 +48,6 @@ Here are some of the projects I've worked on:
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=LinaAbufaraha&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LinaAbufaraha&layout=compact&theme=radical)
 
-<div align="center">
  
   <img src="https://media.giphy.com/media/3o7abuJ8lCW1f5CmO4/giphy.gif" width="200">
   <h3>Thanks for visiting! 😊</h3>
