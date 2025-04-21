@@ -8,6 +8,7 @@
 
 ## 💻 Tech Stack
 <div align="center">
+  
 **Programming Languages:**  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
@@ -27,6 +28,7 @@
 **Databases & Other:**  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+ 
 </div>
 
 ## 📌 Projects  
@@ -42,9 +44,6 @@ Here are some of the projects I've worked on:
 
 
 ## 📊 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=LinaAbufaraha&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LinaAbufaraha&layout=compact&theme=radical)
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LinaAbufaraha&show_icons=true&theme=radical" alt="My GitHub Stats" />
 </p>
@@ -54,9 +53,11 @@ Here are some of the projects I've worked on:
 </p>
 
 <div align="center"> 
+  
 ##  📫 How to reach me:
 [![Gmail](https://img.shields.io/badge/-linaabufarha1@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:linaabufarha1@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lina-abufarha-937734273/)
+  
 </div>
 
 <div align="center"> 
