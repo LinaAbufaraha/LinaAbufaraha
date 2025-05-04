@@ -15,6 +15,7 @@
   </tr>
 </table>
 
+![Visitors](https://komarev.com/ghpvc/?username=LinaAbufaraha&style=flat&color=blue)
 </div>
 
 ## 💻 Tech Stack
