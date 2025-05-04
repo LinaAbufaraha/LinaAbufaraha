@@ -1,18 +1,11 @@
-<div align="center" style="display: grid; grid-template-columns: 1fr auto; align-items: center; gap: 30px; max-width: 800px; margin: 0 auto;">
-  <!-- النص على اليسار -->
-  <div style="text-align: left;">
-    <h1>👋 Hi, I'm Lina Abufarha</h1>
-    <p>🎓 <b>Computer Engineering Student</b> at Birzeit University</p>
-    <p>💡 Passionate about AI & Robotics</p>
-  </div>
-  
-  <!-- الصورة على اليمين -->
-  <div>
-    <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="200" alt="Hello GIF">
-  </div>
-</div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="200" alt="Hello GIF">
+  <h1>👋 Hi, I'm Lina Abufarha</h1>
+  <p>🎓 <b>Computer Engineering Student</b> at Birzeit University</p>
 
 ![Visitors](https://komarev.com/ghpvc/?username=LinaAbufaraha&style=flat&color=blue)
+
+</div>
 
 ## 💻 Tech Stack
   
