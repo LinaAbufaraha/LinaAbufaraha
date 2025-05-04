@@ -1,4 +1,3 @@
-<div align="center">
   
 <table width="100%">
   <tr>
@@ -13,7 +12,6 @@
 </table>
 
 ![Visitors](https://komarev.com/ghpvc/?username=LinaAbufaraha&style=flat&color=blue)
-</div>
 
 ## 💻 Tech Stack
   
