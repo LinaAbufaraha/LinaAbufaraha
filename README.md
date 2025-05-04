@@ -1,7 +1,21 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="200" alt="Hello GIF">
-  <h1>👋 Hi, I'm Lina Abufarha</h1>
-  <p>🎓 <b>Computer Engineering Student</b> at Birzeit University</p>
+  
+<table>
+  <tr>
+    <!-- النص على اليسار -->
+    <td valign="center">
+      <h1>👋 Hi, I'm Lina Abufarha</h1>
+      <p>🎓 <b>Computer Engineering Student</b> at Birzeit University</p>
+      <p>💡 Passionate about AI, Robotics, and Software Development</p>
+    </td>
+    <!-- الصورة على اليمين -->
+    <td valign="center">
+      <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="200" alt="Hello GIF">
+    </td>
+  </tr>
+</table>
+
+</div>
 
   ![Visitors](https://komarev.com/ghpvc/?username=LinaAbufaraha&style=flat&color=blue)
 </div>
